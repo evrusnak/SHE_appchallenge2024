@@ -15,16 +15,16 @@ Vertical and horizontal urban expansion threatens bird life, especially in major
 Birds hold significant environmental, social, and cultural value. Birding remains one of the most accessible ways Canadians can engage with nature (Lenda et al., 2023; Zieris et al., 2023), and birds contribute to ecological services such as plant dispersal, pollination, and pest control (ECCC, 2021). With its prime birding location under the Atlantic and Mississippi major migratory routes, Toronto has a commitment to reduce bird mortalities as one of Canada’s first Bird Friendly Cities (Nature Canada, 2024). Bird Friendly Cities is a certificate program dedicated to creating urban environments that support the well-being of bird life. Our app, the Concrete Migration, aims to compliment the goals of Bird Friendly Toronto by connecting citizens to urban bird centers and giving them accessible means to educate themselves about how manmade environments contribute to bird species declines. 
 
 ## Concrete Migration: the website
-Concrete Migration aims to inform citizens of the level of threats that face birds in their neighborhoods based on urban environmental design. We hope that citizens looking to expand or change their urban environments, whether it be through a house renovation or voting for new amenities in their neighborhood, will use our app to approach urban design in a bird-friendly way.   [insert website link]
-We recommend that users do not approach our app as a definitive answer to how urban expansion impacts birds in their area, but as an informative tool for future planning and citizen science efforts. 
+[Concrete Migration](https://cm22-dalspatial.hub.arcgis.com/pages/application) aims to inform citizens of the level of threats that face birds in their neighborhoods based on urban environmental design. We hope that citizens looking to expand or change their urban environments, whether it be through a house renovation or voting for new amenities in their neighborhood, will use our app to approach urban design in a bird-friendly way.  
+*We recommend that users do not approach our app as a definitive answer to how urban expansion impacts birds in their area, but as an informative tool for future planning and citizen science efforts.*
 ![concrete_migration](https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/a477b018-bb61-4978-afe5-06236e511d96)
 
+## How to use our Application: suitability model and address searching
 
-[insert image of suitability model]
 
 This map represents the overall suitability of Toronto based on urban expansion features that threaten birds. Areas with high risk of causing bird mortalities appear in red, while areas that are more bird friendly appear in green. Type in your address to determine the risk to birds presented by the urban structures in your area! 
 
-[insert image of typing in address]
+
 
 **NBDI** stands for Normalized Built Difference Index, and is essentially a measurement of non-natural, man-made surfaces derived from satellite data. This map summarizes where pavement, concrete, steel, and other non-natural surfaces dominate the city in high densities. 
 
@@ -38,9 +38,7 @@ Birds often migrate at night and become confused by reflections off glass and me
 
 **Wind turbines** are well-known for causing bird mortalities. Their moving blades and white colour make them difficult for flying birds to maneuver around. They pose a very high risk to birds, especially ones that tend to soar in search of food like hawks and gulls. 
 
-This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through FLAP Canada’s website! 
-[insert link to flap website] (SHE_appchallenge2024/images
-/concrete_migration.png) 
+This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through [FLAP Canada’s website](https://flap.org)! 
 
 ## Open Source Data
 Urban Environment Data: 
