@@ -1,7 +1,7 @@
 # SHE's in Stem
 ## 2024 ESRI App Challenge  
 ### Who are we?
-Hi, we're SHE's in STEM, our team name is an acronym of all our members: Sasha, Hannah, and Evelyn. We are three environmental sciences students at Dalhousie Univerisity (in Halifax!). We are passionate about GIS applications for conservation and sustainbility planning.
+Hi, we are **SHE's in STEM**. Our team name is an acronym of all our members: **S**asha, **H**annah, and **E**velyn. We are three environmental sciences students at Dalhousie Univerisity (in Halifax!). We are passionate about GIS applications for conservation and sustainbility.
 ![team_picture](https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/ed759dc4-018c-46f9-8fd7-4b96c3244326)
 
 ## What did we do?
@@ -42,9 +42,12 @@ Birds often migrate at night and become confused by reflections off glass and me
 **Wind turbines** are well-known for causing bird mortalities. Their moving blades and white colour make them difficult for flying birds to maneuver around. They pose a very high risk to birds, especially ones that tend to soar in search of food like hawks and gulls. 
 
 <img width="1053" alt="bird_strikes" src="https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/93bc374f-42ec-4302-91ba-70fe14c4a0f5">
-*This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through*
+
+*This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through* [Flap Canada](https://flap.org)
 
 ## Open Source Data
+All open source data was used in the creation of this app, and processin was done on ArcGIS Pro/Experience Building/Hub
+
 Urban Environment Data: 
 
 We obtained the urban features data, which included wind turbines, powerlines, highways, bus shelters, building height, study area, and neighborhoods from the City of Toronto’s Open Data webpage (City of Toronto, n.d.). 
@@ -58,3 +61,24 @@ Bird Data:
 Finally, we obtained bird sightings density from the Cornell Lab of Ornithology’s citizen science platform eBird and bird strikes from FLAP’s Global Bird Collision Mapper. All occurrence data is from April 1, 2023 to June 30, 2023, in order to capture data from spring migration.
 https://birdmapper-flap.hub.arcgis.com/
 
+## Citations
+Environment and Climate Change Canada (ECCC). (2021 July 30). Protect birds – Protect Nature Challenge. Government of Canada. https://www.canada.ca/en/environment-climate-change/services/nature-legacy/activities/protect-birds.html
+
+Fatal Light Awareness Program (FLAP) Canada. (2022). FLAP Canada data: Top 20 bird species – victims of bird-building collisions (GTA). https://flap.org/data/
+Kroeger, S.B., Hanslin, H.M., Lennartsson, T., D’Amico, M., Kollmann J., Fischer, C., Albertsen, E., & Speed, J.D.M. (2022). Impacts of roads on bird species richness: A meta-analysis considering road types, habitats and feeding guilds. https://doi.org/10.1016/j.scitotenv.2021.151478
+
+Lenda, M.L., Skórka, P., Jaźwa, M., Lin, H.-Y., Nęcka, E., Tryjanowski, P., Moroń, D., Knops, J.M.H., & Possingham, H.P. (2023). Recognizing the importance of near-home contact with nature for mental well-being based on the COVID-19 lockdown experience. Ecology & Society, 28(3), Article 13. https://doi.org/10.5751/ES-14374-280313
+
+Machtans, C.S., Wedeles, C.H.R., & Bayne, E.M. (2013). A first estimate for Canada of the number of birds killed by colliding with building windows. Avian Conservation and Ecology, 8(2), 6. https://doi.org/10.5751/ACE-00568-080206
+
+Nature Canada. (2024). Bird Friendly City: A certification program. https://naturecanada.ca/defend-nature/how-you-help-us-take-action/bfc/
+
+PerkyPet. (n.d.) Bird Migration: Birds of the Atlantic Flyway. https://www.perkypet.com/articles/atlantic-flyway-migration 
+
+PerkyPet. (n.d.) Bird Migration: Birds of the Mississippi Flyway. https://www.perkypet.com/articles/mississippi-flyway-migration 
+
+Rosenberg, K.V., Dokter, A.M., Blancher, P.J., Sauer, J.R., Smith, A.C., Smith, P.A., Stanton J.C., Panjabi, A., Helft, L., Parr, M., & Marra, P.P. (2019). Decline of the North American avifauna. Science, 366(6461), 120-124. https://doi.org/10.1126/science.aaw1313
+
+Statistics Canada (StatsCan). (2022 February 9). Canada’s large urban centres continue to grow and spread. Government of Canada. https://www150.statcan.gc.ca/n1/daily-quotidien/220209/dq220209b-eng.htm
+
+Zieris, P., Freund, S., & Kals, E. (2023). Nature experience and well-being: Bird watching as an intervention in nursing homes to maintain cognitive resources, mobility, and biopsychosocial health. Journal of Environmental Psychology, 91. https://doi.org/10.1016/j.jenvp.2023.102139
