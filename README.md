@@ -17,7 +17,7 @@ Birds hold significant environmental, social, and cultural value. Birding remain
 ## Concrete Migration: the website
 Concrete Migration aims to inform citizens of the level of threats that face birds in their neighborhoods based on urban environmental design. We hope that citizens looking to expand or change their urban environments, whether it be through a house renovation or voting for new amenities in their neighborhood, will use our app to approach urban design in a bird-friendly way.   [insert website link]
 We recommend that users do not approach our app as a definitive answer to how urban expansion impacts birds in their area, but as an informative tool for future planning and citizen science efforts. 
-
+![concrete migration]
 
 [insert image of suitability model]
 
@@ -38,7 +38,8 @@ Birds often migrate at night and become confused by reflections off glass and me
 **Wind turbines** are well-known for causing bird mortalities. Their moving blades and white colour make them difficult for flying birds to maneuver around. They pose a very high risk to birds, especially ones that tend to soar in search of food like hawks and gulls. 
 
 This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through FLAP Canada’s website! 
-[insert link to flap website]
+[insert link to flap website] (SHE_appchallenge2024/images
+/concrete_migration.png) 
 
 ## Open Source Data
 Urban Environment Data: 
