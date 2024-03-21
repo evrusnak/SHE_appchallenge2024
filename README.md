@@ -17,7 +17,8 @@ Birds hold significant environmental, social, and cultural value. Birding remain
 ## Concrete Migration: the website
 Concrete Migration aims to inform citizens of the level of threats that face birds in their neighborhoods based on urban environmental design. We hope that citizens looking to expand or change their urban environments, whether it be through a house renovation or voting for new amenities in their neighborhood, will use our app to approach urban design in a bird-friendly way.   [insert website link]
 We recommend that users do not approach our app as a definitive answer to how urban expansion impacts birds in their area, but as an informative tool for future planning and citizen science efforts. 
-![concrete migration]
+![concrete_migration](https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/a477b018-bb61-4978-afe5-06236e511d96)
+
 
 [insert image of suitability model]
 
