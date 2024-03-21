@@ -19,12 +19,15 @@ Birds hold significant environmental, social, and cultural value. Birding remain
 *We recommend that users do not approach our app as a definitive answer to how urban expansion impacts birds in their area, but as an informative tool for future planning and citizen science efforts.*
 ![concrete_migration](https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/a477b018-bb61-4978-afe5-06236e511d96)
 
-## How to use our Application: suitability model and address searching
+## How to use our Application: 
+Here is a quick online demonstration about using our app, for a full walk through reference our video [insert video].
+### Suitability model and address searching
+<img width="1056" alt="instruction1" src="https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/ce93f994-c5e1-437f-8b29-7817b04b27a5"> *This map represents the overall suitability of Toronto based on urban expansion features that threaten birds. Areas with high risk of causing bird mortalities appear in red, while areas that are more bird friendly appear in green. Type in your address to determine the risk to birds presented by the urban structures in your area!*
 
+<img width="1116" alt="instuction2" src="https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/09788e68-504b-4bd3-aad8-2fa806c5ee89">
 
-This map represents the overall suitability of Toronto based on urban expansion features that threaten birds. Areas with high risk of causing bird mortalities appear in red, while areas that are more bird friendly appear in green. Type in your address to determine the risk to birds presented by the urban structures in your area! 
-
-
+### The Layers
+<img width="946" alt="instuctions 3" src="https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/022412ee-84d1-41e4-81ed-5f291b316904">
 
 **NBDI** stands for Normalized Built Difference Index, and is essentially a measurement of non-natural, man-made surfaces derived from satellite data. This map summarizes where pavement, concrete, steel, and other non-natural surfaces dominate the city in high densities. 
 
@@ -38,7 +41,8 @@ Birds often migrate at night and become confused by reflections off glass and me
 
 **Wind turbines** are well-known for causing bird mortalities. Their moving blades and white colour make them difficult for flying birds to maneuver around. They pose a very high risk to birds, especially ones that tend to soar in search of food like hawks and gulls. 
 
-This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through [FLAP Canada’s website](https://flap.org)! 
+<img width="1053" alt="bird_strikes" src="https://github.com/evrusnak/SHE_appchallenge2024/assets/163580907/93bc374f-42ec-4302-91ba-70fe14c4a0f5">
+*This map shows our suitability modelling overlain with FLAP Canada data on bird strikes reported by the citizens of Toronto in the spring migration season of 2023. FLAP Canada records if the birds were found dead, alive, in flocks (multiple), if no bird were found but evidence of a strike was present (e.g., powdery outline of bird on window), or if information was unreported (unknown). You too can contribute to this dataset through*
 
 ## Open Source Data
 Urban Environment Data: 
