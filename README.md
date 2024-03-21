@@ -43,13 +43,13 @@ This map shows our suitability modelling overlain with FLAP Canada data on bird 
 Urban Environment Data: 
 
 We obtained the urban features data, which included wind turbines, powerlines, highways, bus shelters, building height, study area, and neighborhoods from the City of Toronto’s Open Data webpage (City of Toronto, n.d.). 
-
-(https://www.toronto.ca/city-government/data-research-maps/open-data/)
+https://www.toronto.ca/city-government/data-research-maps/open-data/
 
 Underlying this, we used a Normalized Difference Built-up Index to highlight pavement and Normalized Difference Vegetation Index to view vegetated features, such as green spaces, that provide habitat for birds. Indices were obtained from Landsat 9 data of Toronto on the U.S. Geological Society’s (USGS) Earth Explorer database. 
-
-(https://earthexplorer.usgs.gov/). 
+https://earthexplorer.usgs.gov/ 
 
 Bird Data: 
 
-Finally, we obtained bird sightings density from the Cornell Lab of Ornithology’s citizen science platform eBird and bird strikes from FLAP’s Global Bird Collision Mapper. All occurrence data is from April 1, 2023 to June 30, 2023, in order to capture data from spring migration.  (https://birdmapper-flap.hub.arcgis.com/). 
+Finally, we obtained bird sightings density from the Cornell Lab of Ornithology’s citizen science platform eBird and bird strikes from FLAP’s Global Bird Collision Mapper. All occurrence data is from April 1, 2023 to June 30, 2023, in order to capture data from spring migration.
+https://birdmapper-flap.hub.arcgis.com/
+
